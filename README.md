@@ -1,0 +1,1 @@
+This repo contains a geometry class tailored specifically to writing F-ISAPT input files for .xyz files containing three unique molecules (monomer A, monomer B, and solvent), each with 0 charge and a spin multiplicity of 1.
